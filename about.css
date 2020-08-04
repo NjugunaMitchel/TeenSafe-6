@@ -197,3 +197,106 @@ height: 400px;
 margin-left: 0px;
 top: 1835px;
 }
+#peer h1{
+    position: absolute;
+    width: 620px;
+    height: 294px;
+    margin-left: 10px;
+    top: 1850px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 42px;
+    text-align: center;
+    
+    color:black;
+}
+#peer p{
+    position: absolute;
+    width: 620px;
+    height: 294px;
+    margin-left: 10px;
+    top: 1900px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+   
+    text-align: center;
+    
+    color: black;
+}
+#support img{
+    position: absolute;
+    width: 1362px;
+    height: 600px;
+    margin-left: 0px;
+    top: 2235px;
+}
+#support h1{
+    position: absolute;
+    width: 620px;
+    height: 294px;
+    margin-left: 10px;
+    top: 2250px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+   
+    text-align: center;
+    
+    color:black;
+} 
+#support p{
+    position: absolute;
+    width: 620px;
+    height: 294px;
+    margin-left: 10px;
+    top: 2300px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+   
+    text-align: center;
+    
+    color:black;
+}
+#pes{
+    position: absolute;
+    width: 620px;
+    height: 294px;
+    margin-left: 10px;
+    top: 2500px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+   
+    text-align: center;
+    
+    color:black;
+}
+#sup{
+    position: absolute;
+    width: 620px;
+    height: 294px;
+    margin-left: 10px;
+    top: 2550px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+   
+    text-align: center;
+    
+    color:black;
+}

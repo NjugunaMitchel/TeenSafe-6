@@ -89,47 +89,59 @@ color: #FFFFFF;
 #happy2 img{
     position: absolute;
 width: 675px;
-height: 600px;
+height: 530px;
 margin-left: 0px;
 top: 730px;
 }
-#happy2 p{
+#text1 img{
     position: absolute;
-    width: 500px;
-    height: 200px;
-    left: 90px;
-    top: 800px;
+width: 675px;
+height: 530px;
+margin-left: 675px;
+top: 730px;
+}
+#text1 p{
+    position: absolute;
+    width: 400px;
+    height: 60px;
+    left: 750px;
+    top: 900px;
     
     font-family: Roboto;
     font-style: normal;
     font-weight: 300;
-    font-size: 20px;
+    font-size: 35px;
     
     text-align: center;
-    
-    color: #FFFFFF;
+    color: cornsilk;
 }
 #happy3 img{
     position: absolute;
     width: 675px;
-    height: 600px;
+    height: 530px;
     margin-left: 675px;
-    top: 730px;
+    top: 1260px;
 }
-#happy3 p{
 
- position: absolute;
-    width: 500px;
-    height: 200px;
-    left: 780px;
-    top: 800px;
+#text2 img{
+    position: absolute;
+    width: 675px;
+    height: 530px;
+    margin-left: 0px;
+    top: 1260px;
+}
+#text2 p{
+    position: absolute;
+    width: 400px;
+    height: 60px;
+    left: 70px;
+    top: 1350px;
     
     font-family: Roboto;
     font-style: normal;
     font-weight: 300;
-    font-size: 20px;
+    font-size: 35px;
     
     text-align: center;
-    
-    color: #FFFFFF;
+    color: cornsilk;
 }
