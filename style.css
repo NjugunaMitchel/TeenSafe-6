@@ -1,0 +1,147 @@
+body{
+    font-family:sans-serif;
+    margin:0;
+    padding:0;
+}
+nav{
+width: 100%;
+height: 80px;
+background-color:darkcyan;
+line-height: 80px;
+
+}
+nav ul{
+float:right;
+margin:0;
+margin-right:20rem;
+}
+nav ul li{
+list-style-type:none ;
+display: inline-block;
+}
+nav ul li a{
+text-decoration: none;
+color:#fff;
+padding:20px
+}
+img{
+width:13%;
+margin-left: 1.9rem;
+
+}
+
+nav ul li:hover{
+background-color: coral;
+color:#000;
+font-weight:bold;
+font-size:1.2rem;
+}
+nav img{
+    position: absolute;
+width: 160px;
+height: 80px;
+margin-left: 0px;
+top: 0px;
+}
+
+
+#happy img{
+    position: absolute;
+width: 1350px;
+height: 650px;
+margin-left: 0px;
+top: 80px;
+}
+#p2{
+    position: absolute;
+width: 500px;
+height: 250px;
+left: 0px;
+top:160px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 70px;
+
+text-align: center;
+
+color: #FFFFFF;
+
+}
+#p1{
+    position: absolute;
+width: 300px;
+height: 200px;
+left: 90px;
+top: 400px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+
+text-align: center;
+
+color: #FFFFFF;
+
+}
+#happy2 img{
+    position: absolute;
+width: 675px;
+height: 530px;
+margin-left: 0px;
+top: 730px;
+}
+#text1 img{
+    position: absolute;
+width: 675px;
+height: 530px;
+margin-left: 675px;
+top: 730px;
+}
+#text1 p{
+    position: absolute;
+    width: 400px;
+    height: 60px;
+    left: 750px;
+    top: 900px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 35px;
+    
+    text-align: center;
+    color: cornsilk;
+}
+#happy3 img{
+    position: absolute;
+    width: 675px;
+    height: 530px;
+    margin-left: 675px;
+    top: 1260px;
+}
+
+#text2 img{
+    position: absolute;
+    width: 675px;
+    height: 530px;
+    margin-left: 0px;
+    top: 1260px;
+}
+#text2 p{
+    position: absolute;
+    width: 400px;
+    height: 60px;
+    left: 70px;
+    top: 1350px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 35px;
+    
+    text-align: center;
+    color: cornsilk;
+}
