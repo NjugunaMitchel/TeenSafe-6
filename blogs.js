@@ -1,12 +1,11 @@
 var ask = document.getElementById('ask');
 var display = document.getElementById('display');
-var inputval = document.getElementById('textarea').Value;   
 var query = document.getElementById('additions'); 
 
 // function to add a question 
-ask.addEventListener('click', askQuestion);
-function askQuestion(e){
+ask.addEventListener('click', (e) =>{
     e.preventDefault();
+    var inputval = document.getElementById('textarea').value;   
     //creating element
     var page = document.createElement('div');
     //selecting display and appending the created element
@@ -18,7 +17,6 @@ function askQuestion(e){
     //fetching from input and adding data to the paragraph
     paragraph.innerHTML = inputval;
     return inputval;
- 
-   
-}
+});
+
 
