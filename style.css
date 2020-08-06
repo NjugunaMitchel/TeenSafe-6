@@ -13,7 +13,7 @@ line-height: 80px;
 nav ul{
 float:right;
 margin:0;
-margin-right:20rem;
+margin-right:25rem;
 }
 nav ul li{
 list-style-type:none ;
@@ -36,12 +36,20 @@ color:#000;
 font-weight:bold;
 font-size:1.2rem;
 }
-nav img{
+/*nav img{
     position: absolute;
-width: 160px;
+width: 130px;
 height: 80px;
-margin-left: 0px;
-top: 0px;
+margin-left: 5px;
+top: 2px;
+}*/
+nav img{
+    height:80px;
+    width:200px;
+    
+    object-fit: cover;
+    margin:0;
+    padding:0;
 }
 
 

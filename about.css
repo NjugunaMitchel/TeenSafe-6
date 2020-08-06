@@ -37,11 +37,17 @@ font-weight:bold;
 font-size:1.2rem;
 }
 nav img{
-    position: absolute;
+   /* position: absolute;
 width: 160px;
 height: 80px;
 margin-left: 0px;
-top: 0px;
+top: 0px;*/
+height:80px;
+width:200px;
+
+object-fit: cover;
+margin:0;
+padding:0;
 }
 #woman1 img{
     position: absolute;
